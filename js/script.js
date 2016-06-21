@@ -44,7 +44,7 @@ function insertSpace(){
 	var text = document.getElementById('input').value;
 	text = text + ' ';
 	document.getElementById('input').value;
-	//fdgdfgdfgdfgdfgdf///
+	
 }
 
 	document.getElementById('button45').onclick = pressEnter;
