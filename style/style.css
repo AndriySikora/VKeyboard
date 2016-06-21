@@ -1,0 +1,138 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+body{
+	background-image: url("../img/page-background.png");
+}
+.header{
+	background: #CCC;
+	height: auto;
+}
+h1{
+	text-align: center;
+	color: blue;
+}
+h2{
+	text-align: center;
+	color: black;
+}
+.type{
+	margin-top: 20px;
+}
+.container{
+	width: 1170px;
+	height: auto;
+	margin: 0 auto;
+}
+.input-area{
+	margin: 0 auto;
+	width: 597px;
+	height: 160px;
+}
+.virtual-keyboard{
+	margin: 0 auto;
+	background-image: url(https://1.bp.blogspot.com/-7o-vOqMGeFw/VecYysI_z0I/AAAAAAAAAYg/c0GDhj-v_5w/w800-h800/simple-keyboard-hi.png);
+	height: 220px;
+	width: 600px;
+}
+.kbButton{
+    float: left;
+    display: inline;
+    color: white;
+    width: 35px;
+    height: 37px;
+    overflow: hidden;
+}
+#button48{
+	margin-right: 10px;
+    float: left;
+    display: inline;
+    color: white;
+    width: 65px;
+    height: 30px;
+    overflow: hidden;
+}
+.backSpace{
+    float: left;
+    display: inline;
+    color: white;
+    width: 70px;
+    height: 30px;
+    overflow: hidden;
+}
+.tabButton{
+	float: left;
+    display: inline;
+    color: white;
+    width: 60px;
+    height: 30px;
+    overflow: hidden;
+}
+.enterButton{
+	margin-left: 20px;
+	float: left;
+    display: inline;
+    color: white;
+    width: 63px;
+    height: 30px;
+    overflow: hidden;
+}
+.enterButton1{
+	float: left;
+    display: inline;
+    color: white;
+    width: 35px;
+    height: 30px;
+    overflow: hidden;
+}
+.shiftButton{
+	float: left;
+    display: inline;
+    color: white;
+    width: 50px;
+    height: 30px;
+    overflow: hidden;
+}
+.dotButton{
+	margin-left: 10px;
+	float: left;
+    display: inline;
+    color: white;
+    width: 50px;
+    height: 30px;
+    overflow: hidden;
+}
+.shiftButton1{
+	float: left;
+    display: inline;
+    color: white;
+    width: 60px;
+    height: 30px;
+    overflow: hidden;
+}
+.endButton{
+	float: left;
+    display: inline;
+    color: white;
+    width: 44px;
+    height: 30px;
+    overflow: hidden;
+}
+.ctrlButton{
+	float: left;
+    display: inline;
+    color: white;
+    width: 55px;
+    height: 30px;
+    overflow: hidden;
+}
+.spaceButton{
+	float: left;
+    display: inline;
+    color: white;
+    width: 205px;
+    height: 30px;
+    overflow: hidden;
+}
